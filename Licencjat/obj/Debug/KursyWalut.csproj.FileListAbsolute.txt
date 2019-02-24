@@ -1,0 +1,179 @@
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Licencjat.dll.config
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Licencjat.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Licencjat.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\kursy.Kursy.apk
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\kursy.Kursy-Signed.apk
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\GCM.Client.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Microsoft.WindowsAzure.Messaging.Android.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\SQLitePCL.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\SQLitePCL.Ext.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Xamarin.GooglePlayServices.Measurement.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\KursyWalut.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\Licencjat.dll
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\Licencjat.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\bin\kursy.Kursy.apk
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\res\layout\selectedcurrencieslayout.xml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\res\layout\notificationsettingslayout.xml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\res\layout\main.xml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\res\values\strings.xml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\res\drawable\icon.png
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\res\values\theme.xml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\res\drawable\settingsicon.png
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\R.cs.flag
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\uploadflags.txt
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Mono.Android.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\mscorlib.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.ComponentModel.DataAnnotations.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.Core.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.Net.Http.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.Xml.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Mono.Security.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\I18N.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\I18N.CJK.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\I18N.MidEast.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\I18N.Other.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\I18N.Rare.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\I18N.West.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\Mono.Android.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\mscorlib.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\System.ComponentModel.DataAnnotations.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\System.Core.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\System.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\System.Net.Http.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\System.Xml.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\System.Xml.Linq.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\Mono.Security.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\I18N.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\I18N.CJK.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\I18N.MidEast.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\I18N.Other.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\I18N.Rare.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\I18N.West.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\linksrc\Licencjat.dll.mdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\bin\Debug\Licencjat.dll.mdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\Licencjat.dll.mdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\I18N.CJK.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\I18N.MidEast.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\I18N.Other.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\I18N.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\I18N.Rare.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\I18N.West.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\Mono.Android.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\Mono.Security.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\mscorlib.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\System.ComponentModel.DataAnnotations.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\System.Core.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\System.Net.Http.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\System.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\System.Xml.Linq.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Licencjat\obj\Debug\android\assets\System.Xml.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\Licencjat.dll.config
+K:\ProjectsVS\Licencjat\bin\Debug\Licencjat.dll
+K:\ProjectsVS\Licencjat\bin\Debug\Licencjat.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\kursy.Kursy.apk
+K:\ProjectsVS\Licencjat\bin\Debug\kursy.Kursy-Signed.apk
+K:\ProjectsVS\Licencjat\bin\Debug\GCM.Client.dll
+K:\ProjectsVS\Licencjat\bin\Debug\Microsoft.WindowsAzure.Messaging.Android.dll
+K:\ProjectsVS\Licencjat\bin\Debug\Microsoft.WindowsAzure.Mobile.dll
+K:\ProjectsVS\Licencjat\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.dll
+K:\ProjectsVS\Licencjat\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.dll
+K:\ProjectsVS\Licencjat\bin\Debug\Newtonsoft.Json.dll
+K:\ProjectsVS\Licencjat\bin\Debug\SQLitePCL.dll
+K:\ProjectsVS\Licencjat\bin\Debug\SQLitePCL.Ext.dll
+K:\ProjectsVS\Licencjat\bin\Debug\SQLitePCLRaw.batteries_green.dll
+K:\ProjectsVS\Licencjat\bin\Debug\SQLitePCLRaw.core.dll
+K:\ProjectsVS\Licencjat\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+K:\ProjectsVS\Licencjat\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+K:\ProjectsVS\Licencjat\bin\Debug\System.Net.Http.Extensions.dll
+K:\ProjectsVS\Licencjat\bin\Debug\System.Net.Http.Primitives.dll
+K:\ProjectsVS\Licencjat\bin\Debug\Xamarin.Android.Support.v4.dll
+K:\ProjectsVS\Licencjat\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+K:\ProjectsVS\Licencjat\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+K:\ProjectsVS\Licencjat\bin\Debug\Xamarin.GooglePlayServices.Measurement.dll
+K:\ProjectsVS\Licencjat\bin\Debug\Microsoft.WindowsAzure.Mobile.xml
+K:\ProjectsVS\Licencjat\bin\Debug\Microsoft.WindowsAzure.Mobile.Ext.xml
+K:\ProjectsVS\Licencjat\bin\Debug\Microsoft.WindowsAzure.Mobile.SQLiteStore.xml
+K:\ProjectsVS\Licencjat\bin\Debug\Newtonsoft.Json.xml
+K:\ProjectsVS\Licencjat\bin\Debug\System.Net.Http.Extensions.xml
+K:\ProjectsVS\Licencjat\bin\Debug\System.Net.Http.Primitives.xml
+K:\ProjectsVS\Licencjat\obj\Debug\KursyWalut.csprojResolveAssemblyReference.cache
+K:\ProjectsVS\Licencjat\obj\Debug\Licencjat.dll
+K:\ProjectsVS\Licencjat\obj\Debug\Licencjat.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\android\bin\kursy.Kursy.apk
+K:\ProjectsVS\Licencjat\obj\Debug\res\layout\selectedcurrencieslayout.xml
+K:\ProjectsVS\Licencjat\obj\Debug\res\layout\notificationsettingslayout.xml
+K:\ProjectsVS\Licencjat\obj\Debug\res\layout\main.xml
+K:\ProjectsVS\Licencjat\obj\Debug\res\values\strings.xml
+K:\ProjectsVS\Licencjat\obj\Debug\res\drawable\icon.png
+K:\ProjectsVS\Licencjat\obj\Debug\res\values\theme.xml
+K:\ProjectsVS\Licencjat\obj\Debug\res\drawable\settingsicon.png
+K:\ProjectsVS\Licencjat\obj\Debug\R.cs.flag
+K:\ProjectsVS\Licencjat\obj\Debug\uploadflags.txt
+K:\ProjectsVS\Licencjat\bin\Debug\I18N.CJK.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\I18N.MidEast.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\I18N.Other.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\I18N.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\I18N.Rare.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\I18N.West.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\Mono.Android.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\Mono.Security.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\mscorlib.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\System.ComponentModel.Composition.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\System.ComponentModel.DataAnnotations.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\System.Core.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\System.Net.Http.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\System.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\System.Runtime.Serialization.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\System.ServiceModel.Internals.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\System.Xml.Linq.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\System.Xml.pdb
+K:\ProjectsVS\Licencjat\bin\Debug\Licencjat.dll
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\Mono.Android.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\mscorlib.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\System.ComponentModel.DataAnnotations.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\System.Core.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\System.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\System.Net.Http.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\System.Xml.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\System.Xml.Linq.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\System.Runtime.Serialization.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\Mono.Security.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\System.ComponentModel.Composition.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\I18N.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\I18N.CJK.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\I18N.MidEast.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\I18N.Other.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\I18N.Rare.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\I18N.West.pdb
+K:\ProjectsVS\Licencjat\obj\Debug\linksrc\Licencjat.dll.mdb
