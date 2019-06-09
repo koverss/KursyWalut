@@ -1,0 +1,2 @@
+J:\Pliki programów (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Xamarin\Xamarin.VisualStudio\Xamarin.Inspector.Windows\Agents\Forms\Android\Xamarin.Interactive.dll
+J:\Pliki programów (x86)\Microsoft Visual Studio 14.0\Common7\IDE\Extensions\Xamarin\Xamarin.VisualStudio\Xamarin.Inspector.Windows\Agents\Forms\Android\Xamarin.Interactive.Android.dll
